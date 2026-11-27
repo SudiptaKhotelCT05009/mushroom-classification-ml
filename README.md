@@ -32,7 +32,7 @@ The classes are fairly balanced.
 
 ## 3. GitHub Repository
 
-Repository link: To be added after creating the GitHub repository.
+Repository link: https://github.com/SudiptaKhotelCT05009/mushroom-classification-ml/tree/main
 
 ## 4. Data Preprocessing
 
